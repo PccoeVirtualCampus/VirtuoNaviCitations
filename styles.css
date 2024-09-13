@@ -181,7 +181,6 @@ body.dark-mode .title h2 {
 .logobtn{
     display: flex;
     flex-direction: column;
-    gap:30px;
 }
 
 
